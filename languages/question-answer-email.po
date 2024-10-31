@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Question Answer - Email\n"
+"POT-Creation-Date: 2016-12-22 18:44+0600\n"
+"PO-Revision-Date: 2016-12-22 18:44+0600\n"
+"Last-Translator: \n"
+"Language-Team: PickPlugins <support@pickplugins.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: templates\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#: includes/classes/class-menu.php:20
+msgid "Email Template"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:49
+msgid "New Question Submitted"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:50
+msgid "New Question Submitted - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:55
+msgid "New Question Published"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:56
+msgid "New Question Published - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:61
+msgid "New Answer Submitted"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:62
+msgid "New Answer Submitted - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:67
+msgid "New Answer Published"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:68
+msgid "New Answer Published - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:74
+msgid "Question solved"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:75
+msgid "Question solved - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:80
+msgid "Question unsolved"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:81
+msgid "Question unsolved - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:86
+msgid "Comment flag"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:87
+msgid "Comment flagged - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:92
+msgid "Comment unflag"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:93
+msgid "Comment unflagged - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:99
+msgid "Answer Voted Up"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:100
+msgid "Answer voted up - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:105
+msgid "Answer Voted Down"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:106
+msgid "Answer voted down - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:112
+msgid "Answer Comment"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:113
+msgid "New Comment on Answer - {site_url}"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:130
+msgid "Site Parameters"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:135
+msgid "Users Parameters"
+msgstr ""
+
+#: includes/classes/class-templates-design.php:140
+msgid "Question Parameters"
+msgstr ""
+
+#: includes/functions.php:18
+msgid "Send email on new question submission?"
+msgstr ""
+
+#: includes/functions.php:19 includes/functions.php:28
+#: includes/functions.php:38 includes/functions.php:52
+#: includes/functions.php:61 includes/functions.php:70
+#: includes/functions.php:79 includes/functions.php:89
+msgid "Default: Yes."
+msgstr ""
+
+#: includes/functions.php:22 includes/functions.php:31
+#: includes/functions.php:41 includes/functions.php:55
+#: includes/functions.php:64 includes/functions.php:73
+#: includes/functions.php:82 includes/functions.php:92
+msgid "No"
+msgstr ""
+
+#: includes/functions.php:22 includes/functions.php:31
+#: includes/functions.php:41 includes/functions.php:55
+#: includes/functions.php:64 includes/functions.php:73
+#: includes/functions.php:82 includes/functions.php:92
+msgid "Yes"
+msgstr ""
+
+#: includes/functions.php:27
+msgid "Send email on new question published?"
+msgstr ""
+
+#: includes/functions.php:37
+msgid "Send email on new answer published?"
+msgstr ""
+
+#: includes/functions.php:51
+msgid "Send email on question solved?"
+msgstr ""
+
+#: includes/functions.php:60
+msgid "Send email on question unsolved?"
+msgstr ""
+
+#: includes/functions.php:69
+msgid "Send email on comment flag status changed?"
+msgstr ""
+
+#: includes/functions.php:78
+msgid "Send email on comment unflag status changed?"
+msgstr ""
+
+#: includes/functions.php:88
+msgid "Send email on answer vote?"
+msgstr ""
+
+#: includes/functions.php:99
+msgid "Email"
+msgstr ""
+
+#: includes/menus/email-template.php:46
+msgid "Reset all"
+msgstr ""
+
+#: includes/menus/email-template.php:59
+msgid "Reset"
+msgstr ""
+
+#: includes/menus/email-template.php:69
+msgid "Email Subject:"
+msgstr ""
+
+#: includes/menus/email-template.php:73
+msgid "Email Body:"
+msgstr ""
+
+#: includes/menus/email-template.php:101
+msgid "Changes Saved."
+msgstr ""
+
+#: includes/menus/email-template.php:111
+#, php-format
+msgid "%s - Templates"
+msgstr ""
+
+#: includes/menus/email-template.php:125
+msgid "Save Changes"
+msgstr ""
